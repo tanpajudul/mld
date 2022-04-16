@@ -1,4 +1,4 @@
 btsport espn = https://KPUAE@bd78cedb3a8d.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.303903229440.channel.CuVGhlgSqMbP.m3u8?LANUNMATASEPET.m3u8
 btsport1 = https://kpuae@52762529d0d1.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.303903229440.channel.4PqscZU61XiE.m3u8?lanunbajingan.m3u8
 https://dq7lqht9lxyy4.cloudfront.net/out/v1/be12ec3d0f9548aebf6a0e05c1ab49c4/index.m3u8
-http://93.152.174.144:4000/play/bein1fr/index.m3u8?shareext.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1650121583~acl=/hls-p/ingest_6786_*/*~hmac=141374ef7002f83581e22e939fd25217a1ce6babfa143c7533fd265530cdd339/hls-p/ingest_6786_720p/index.m3u8
