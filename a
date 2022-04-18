@@ -1,1 +1,30 @@
-http://kpuae@prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/RHVkH2pXpJyZx_CmhHVK5WT7byDNRTWjdepFhFThta3bmZEzOzTZP8Q3AMj7c4OQHIGrlFWEk4gzEYCjMEOLHA/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live
+metrotv = https://stream-05.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS9b2sC8gQAlx9KHyUMydRQEZSfwlG6CBIAallReNLPGX)/dm/3/x75p70w/d/live-3.m3u8
+kompas = https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gz_w4_SQIW6bo1cB2LEV_1hCbJhKILIeO7l6XhGmwm4d)/dm/3/x6pz4sa/d/live-2.m3u8
+rtv = https://cdn13jtedge.useetv.com/joss/130/rtv/chunklist_w539266690_b1004100_sleng.m3u8?enc=xMlI9P5LHf3_p9yPZzgKTQ&uid=&exp=1650314154
+ochannel = https://etslive-2-vidio-com.akamaized.net/exp=1650319641~acl=/hls-p/ingest_206_*/*~hmac=bc9a3851fba78c09c65603e0607a8468d0a2e3c0cc8913b69bacda8b8e5472d8/hls-p/ingest_206_720p/index.m3u8
+trans tv usee = https://cdn13jtedge.useetv.com/joss/133/transtv1080new/chunklist_w206347279_b1244100_sleng.m3u8?enc=1QgSm_f5XXKa5QLvVbpInQ&uid=&exp=1650314439
+trans tv detik = https://video.detik.com/transtv/smil:transtv.smil/chunklist_w547683242_b744100_sleng.m3u8
+trans 7 website = https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G7ChNssAI9u8p31cPwsSm2jRVojq8DiwqVClGxlJ8LRM)/dm/3/x6p1gw7/d/live-2.m3u8
+trans 7 usee = https://cdn13jtedge.useetv.com/joss/133/trans7/chunklist_w819335031_b1244100_sleng.m3u8?enc=BLNTkv3YsLV3pFMGi31Sdg&uid=&exp=1650314674
+trans 7 detik = https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1936667828_b744100_sleng.m3u8
+indosiar = http://iptv12k.com:35461/8022022301/468985/4802
+indosiar = http://iptv12k.com:35461/8022022301/468985/2187
+indosiar = http://tvn.x10.bz/TvN_ID/master.m3u8
+sctv = https://nonton.site:8443/1842273725/9237641816/32
+sctv = http://iptv12k.com:35461/8022022301/468985/1811
+antv = http://tvn.x10.bz/TvN_ID/master-12.m3u8
+tvone = http://tvn.x10.bz/TvN_ID/master-13.m3u8
+rcti = https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+gtv = https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+mnc tv = https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+inews = https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
+mnctv = https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_450000=4.m3u8
+rcti = https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-mp4a_96000=2.m3u8
+inews = https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021-avc1_450000=4.m3u8
+gtv = https://d322b885qvsbxg.cloudfront.net/GTV2021-mp4a_96000=2.m3u8
+mnc sport = https://liveevent5.rctiplus.id/liveevent/livechat1_master.m3u8?auth_key=1641496117-0-0-a57f2502e5f51ba94fd2d195eda50ac8
+mnc sport 480 = https://liveevent5.rctiplus.id/liveevent/livechat1_480p.m3u8?auth_key=1641496117-0-0-e11e34e60ed9b930ecd3eaab45b83444
+mnc sport 2 = https://liveevent5.rctiplus.id/liveevent/livechat3_master.m3u8?auth_key=1641496197-0-0-aba49c7d2c9f7b3a470afa43afafd0a3
+mnc sport 2 720 = https://liveevent5.rctiplus.id/liveevent/livechat3_720p.m3u8?auth_key=1641496197-0-0-057a0923451b4a0a53c9111437390dd8
+soccer live = https://liveevent5.rctiplus.id/liveevent/livechat2_master.m3u8?auth_key=1641496162-0-0-49dd1613e5da3bfd2e0b8ff34813139a
+soccer live 720 = https://liveevent5.rctiplus.id/liveevent/livechat2_720p.m3u8?auth_key=1641496162-0-0-4ea38a039786052c184cf6e4c518acf6
