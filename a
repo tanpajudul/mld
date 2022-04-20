@@ -4,6 +4,8 @@ metrotv yt
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1650478193/ei/EfhfYuvRKeK3juMPgtyJuAM/ip/103.119.140.162/id/YVPQH5keKE8.1/source/yt_live_broadcast/requiressl/yes/tx/24027686/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC1CUZfmqaNkKtO7ABHVgY5sGjGMwter4tK_a3w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM3K1ujufwRIQckQd-Fm4_RwCtYkThOYLM5vPiBqz5BvAiACZgizt-JbDDRm392ibIQke79JoOMpgB9NlEGD2PblHA%3D%3D/file/index.m3u8
 metrotv usee
 https://cdn10jtedge.useetv.com/joss/133/metrotv1080/chunklist_w987513054_b844100_sleng.m3u8?enc=PhHLIA0tYm1-hj4bn1BCuw&uid=&exp=1650465318
+metro denstv
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 kompas yt
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1650478096/ei/sPdfYtHTDNC0juMPopa4mAk/ip/103.119.140.162/id/Za5-fvwbPJI.1/source/yt_live_broadcast/requiressl/yes/tx/24027686/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC23mkvsBf1gnx_Wq9JQ-vNqy28sB_V3h8JzBZw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMUabMFpWCK2ovjpq50UmFyaeassO4MuGhsICFA2jzpBAiA66VGRYmbF32hSMer_76dkWd2RJpXg7biWOBywhb354g%3D%3D/file/index.m3u8
 kompas usee
@@ -22,9 +24,15 @@ trans7 web
 https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G1qAnc1uGCF_diCcuCYUI7mw315Ahr0HF4ANLhYgs0l-)/dm/3/x6p1gw7/d/live-2.m3u8
 https:/u002F/u002Fvisionplus-stream.visionplus.id/u002Flive/u002Feds/u002FRCTI-Indonesia/u002Fsa_hls/u002FRCTI-Indonesia.m3u8
 https:/u002F/u002Fon-load.mncnow.id/u002Flive/u002Feds/u002FANTV/u002Fsa_hls_vmx/u002FANTV.m3u8?begin=1649831400&end=1649842200
+beritasatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+cnbc indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+jakarta globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+biznet kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
-https://d1ipl36x5x4iks.cloudfront.net/live/afc1.m3u8
-https://d1ipl36x5x4iks.cloudfront.net/live/afc2.m3u8
 
 
 metrotv = 
