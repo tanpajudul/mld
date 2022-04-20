@@ -1,4 +1,27 @@
-https://www.seulangatv-online.ml/ns/dens/antv.m3u8|User-Agent=punya=SeulangaTV
+metrotv web
+https://stream-01.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS_KM1OnU0dqNsn2vxUgUoQuWGOIl25hJ0V0wBFS60foQ)/dm/3/x75p70w/d/live-3.m3u8
+metrotv yt
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1650478193/ei/EfhfYuvRKeK3juMPgtyJuAM/ip/103.119.140.162/id/YVPQH5keKE8.1/source/yt_live_broadcast/requiressl/yes/tx/24027686/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC1CUZfmqaNkKtO7ABHVgY5sGjGMwter4tK_a3w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM3K1ujufwRIQckQd-Fm4_RwCtYkThOYLM5vPiBqz5BvAiACZgizt-JbDDRm392ibIQke79JoOMpgB9NlEGD2PblHA%3D%3D/file/index.m3u8
+metrotv usee
+https://cdn10jtedge.useetv.com/joss/133/metrotv1080/chunklist_w987513054_b844100_sleng.m3u8?enc=PhHLIA0tYm1-hj4bn1BCuw&uid=&exp=1650465318
+kompas yt
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1650478096/ei/sPdfYtHTDNC0juMPopa4mAk/ip/103.119.140.162/id/Za5-fvwbPJI.1/source/yt_live_broadcast/requiressl/yes/tx/24027686/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC23mkvsBf1gnx_Wq9JQ-vNqy28sB_V3h8JzBZw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMUabMFpWCK2ovjpq50UmFyaeassO4MuGhsICFA2jzpBAiA66VGRYmbF32hSMer_76dkWd2RJpXg7biWOBywhb354g%3D%3D/file/index.m3u8
+kompas usee
+https://cdn10jtedge.useetv.com/joss/133/kompastv/chunklist_w118164451_b524100_sleng.m3u8?enc=df5-m_PFPpXGl39O53WINQ&uid=&exp=1650465028
+rtv usee
+https://cdn10jtedge.useetv.com/joss/130/rtv/chunklist_w756606739_b1004100_sleng.m3u8?enc=lGBi74KNztAaWeS4tAfqRQ&uid=&exp=1650465702
+ochannel web
+https://etslive-2-vidio-com.akamaized.net/exp=1650471180~acl=/hls-p/ingest_206_*/*~hmac=33bf6a30e10f7a501f772043d74b8fccff4d089d4b98378d828c6d017883dcf9/hls-p/ingest_206_720p/index.m3u8
+transtv usee
+https://cdn10jtedge.useetv.com/joss/133/transtv1080new/chunklist_w2032343227_b1244100_sleng.m3u8?enc=zJ3NMx7YvFyxE3KdPlGjQg&uid=&exp=1650466040
+transtv web
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w433365833_b744100_sleng.m3u8
+trans7 web
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w476626081_b744100_sleng.m3u8
+trans7 web
+https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G1qAnc1uGCF_diCcuCYUI7mw315Ahr0HF4ANLhYgs0l-)/dm/3/x6p1gw7/d/live-2.m3u8
+https:/u002F/u002Fvisionplus-stream.visionplus.id/u002Flive/u002Feds/u002FRCTI-Indonesia/u002Fsa_hls/u002FRCTI-Indonesia.m3u8
+https:/u002F/u002Fon-load.mncnow.id/u002Flive/u002Feds/u002FANTV/u002Fsa_hls_vmx/u002FANTV.m3u8?begin=1649831400&end=1649842200
 
 https://d1ipl36x5x4iks.cloudfront.net/live/afc1.m3u8
 https://d1ipl36x5x4iks.cloudfront.net/live/afc2.m3u8
