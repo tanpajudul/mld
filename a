@@ -1,57 +1,49 @@
-#EXTINF:-1 tvg-id="SinemaIndonesia.MACAN" tvg-name="SinemaIndonesia.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/sinema_indonesia.png", Sinema Indonesia
-https://delivery.tvprem.net/stream/sinema_indonesia/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/galaxy.jpg", Galaxy
-https://delivery.tvprem.net/stream/galaxy/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/galaxy_premium.jpg", Galaxy Premium
-https://delivery.tvprem.net/stream/galaxy_premium/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/imc.jpg", IMC
-https://delivery.tvprem.net/stream/imc/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="CinemaWorld.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/cinemaworld.png", CinemaWorld
-https://delivery.tvprem.net/stream/cinemaworld/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="BioskopIndonesia.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/bioskopindonesia.png", Bioskop Indonesia
-https://delivery.tvprem.net/stream/bioskopindonesia/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/flik.png", Flik
-https://delivery.tvprem.net/stream/flik/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/thrill.png", Thrill
-https://delivery.tvprem.net/stream/thrill/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITSMovies.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/hits_movies.png", HITS Movies
-https://delivery.tvprem.net/stream/hits_movies/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="Paramount.MACAN" tvg-name="Paramount.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/paramount.png", Paramount
-https://delivery.tvprem.net/stream/paramount/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="myfamilychannel.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/myfamilychannel.png", myfamilychannel
-https://delivery.tvprem.net/stream/myfamilychannel/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="mycinema.MACAN" tvg-name="mycinema.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/mycinema.png", mycinema
-https://delivery.tvprem.net/stream/mycinema/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-name="mycinemaasia.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/mycinemaasia.png", mycinemaasia
-https://delivery.tvprem.net/stream/mycinemaasia/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBOHD.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/hbo.png", HBO
-https://delivery.tvprem.net/stream/hbo/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBOFamilyHD.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/hbo_family.png", HBO Family
-https://delivery.tvprem.net/stream/hbo_family/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBOHitsHD.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/hbo_hits.png", HBO Hits
-https://delivery.tvprem.net/stream/hbo_hits/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBOSignatureHD.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/hbo_signature.png", HBO Signature
-https://delivery.tvprem.net/stream/hbo_signature/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX.MACAN" group-title="Movies" 
-tvg-logo="https://cdn.macan.tv/img/cinemaxa.png", Cinemax by HBO
-https://delivery.tvprem.net/stream/cinemax/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang.MACAN" group-title="Kids" 
+tvg-logo="https://cdn.macan.tv/img/boomerang.png", Boomerang
+https://delivery.tvprem.net/stream/boomerang/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="MentariTV.MACAN" tvg-name="MentariTV.MACAN" group-title="Kids" 
+tvg-logo="https://cdn.macan.tv/img/mentaritv.png", Mentari TV
+https://delivery.tvprem.net/stream/mentaritv/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="horee.MACAN" tvg-name="horee.MACAN" group-title="Kids" 
+tvg-logo="https://cdn.macan.tv/img/horee.png", Horee
+https://delivery.tvprem.net/stream/horee/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="Lingua.MACAN" tvg-name="Lingua.MACAN" group-title="Kids" 
+tvg-logo="https://cdn.macan.tv/img/lingua.png", Lingua
+https://delivery.tvprem.net/stream/lingua/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="DuniaAnak.MACAN" tvg-name="DuniaAnak.MACAN" group-title="Kids" 
+tvg-logo="https://cdn.macan.tv/img/duniaanak.png", Dunia Anak
+https://delivery.tvprem.net/stream/duniaanak/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="DaVinci.MACAN" tvg-name="DaVinci.MACAN" group-title="Kids" 
+tvg-logo="https://cdn.macan.tv/img/davinci.png", Da Vinci
+https://delivery.tvprem.net/stream/davinci/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="Mykidz.MACAN" tvg-name="Mykidz.MACAN" group-title="Kids" 
+tvg-logo="https://cdn.macan.tv/img/mykidz.jpg", My Kidz
+https://delivery.tvprem.net/stream/mykidz/playlist.m3u8?token=q42qz2d&v=20200807
+
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="WAKUWAKUJAPAN.MACAN" group-title="Japan" 
+tvg-logo="https://cdn.macan.tv/img/wakuwaku.png", Waku Waku Japan
+https://delivery.tvprem.net/stream/wakuwaku/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang.MACAN" group-title="Korea" 
+tvg-logo="https://cdn.macan.tv/img/arirang.png", Arirang
+https://delivery.tvprem.net/stream/arirang/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM.MACAN" group-title="Chinese" 
+tvg-logo="https://cdn.macan.tv/img/ccm.png", Celestial Classic Movies
+https://delivery.tvprem.net/stream/ccm/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CelestialMovies.MACAN" group-title="Chinese" 
+tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
+https://delivery.tvprem.net/stream/cm/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="SCM.MACAN" group-title="Chinese" 
+tvg-logo="https://cdn.macan.tv/img/star_chinese_movies.png", Star Chinese Movies
+https://delivery.tvprem.net/stream/id_scm/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="ChineseDrama.MACAN" tvg-name="ChineseDrama.MACAN" group-title="Chinese" 
+tvg-logo="https://cdn.macan.tv/img/chinesedrama.png", Chinese Drama
+https://delivery.tvprem.net/stream/chinesedrama/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="Formosa.MACAN" tvg-name="Formosa.MACAN" group-title="Chinese" 
+tvg-logo="https://cdn.macan.tv/img/formosa.png", Formosa
+https://delivery.tvprem.net/stream/formosa/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="Zee.MACAN" group-title="India" 
+tvg-logo="https://cdn.macan.tv/img/zeebioskop.png", ZEE Bioskop
+https://delivery.tvprem.net/stream/zeebioskop/playlist.m3u8?token=q42qz2d&v=20200807
 
 
 metrotv web
