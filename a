@@ -1,5 +1,63 @@
-https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
-https://i.postimg.cc/WpSqQQkw/nba.jpg
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beINSports1.MACAN" group-title="Sports" tvg-logo="https://cdn.macan.tv/img/bein_sports_1.png", beIN Sports 1 ID
+https://delivery.tvprem.net/stream/macan_sport_1/playlist.m3u8?token=q42qz2d&v=20200807
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beINSports2.MACAN" group-title="Sports" tvg-logo="https://cdn.macan.tv/img/bein_sports_2.png", beIN Sports 3 ID
+https://delivery.tvprem.net/stream/macan_sport_2/playlist.m3u8?token=q42qz2d&v=20200807
 
-Philadelphia 76ers vs Miami Heat
-Phoenix Suns vs Dallas Mavericks
+====== Sky EPL ======
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/skypremierliga.png" group-title="Sport",Sky Premier Liga
+http://golive.yn.lt/stream/skysport/premierliga.m3u8
+
+https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
+https://i.postimg.cc/Vkwq2R00/espn.png
+
+===== Premier Sport-1 =====
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/premiersport1.png" group-title="Sport",Premier Sport 1
+http://golive.yn.lt/stream/premiersport/01.m3u8
+===== Premier Sport-2 =====
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/premiersport2.png" group-title="Sport",Premier Sport 2
+http://golive.yn.lt/stream/premiersport/02.m3u8
+
+====== SPORT TV-1 ======
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/sporttv1.png" group-title="Sport",Sport Tv 1
+http://golive.yn.lt/stream/sporttv/01.m3u8
+====== SPORT TV-2 ======
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/sporttv2.png" group-title="Sport",Sport Tv 2
+http://golive.yn.lt/stream/sporttv/02.m3u8
+====== SPORT TV-3 ======
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/sporttv3.png" group-title="Sport",Sport Tv 3
+http://golive.yn.lt/stream/sporttv/03.m3u8
+====== SPORT TV-4 ======
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/sporttv4.png" group-title="Sport",Sport Tv 4
+http://golive.yn.lt/stream/sporttv/04.m3u8
+====== SPORT TV-5 ======
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/sporttv5.png" group-title="Sport",Sport Tv 5
+http://golive.yn.lt/stream/sporttv/05.m3u8
+
+====== SS Football ======
+https://i.postimg.cc/TwWNPcmL/supersport-football.png
+http://golive.yn.lt/stream/supersport/football.m3u8
+===== SS Premier Liga =====
+https://i.postimg.cc/brx6xNmq/supersport-premier-league-live.png
+http://golive.yn.lt/stream/supersport/premierliga.m3u8
+====== SS Laliga ======
+https://i.postimg.cc/fbPgZP3Q/supersport-laliga.png
+http://golive.yn.lt/stream/supersport/laliga.m3u8
+====== SS Cricket ======
+https://i.postimg.cc/q7qZPrvG/supersport-cricket.png
+http://golive.yn.lt/stream/supersport/cricket.m3u8
+====== SS Golf ======
+https://i.postimg.cc/DwBMp0nZ/supersport-golf.png
+http://golive.yn.lt/stream/supersport/golf.m3u8
+====== SS MotorSport ======
+https://i.postimg.cc/J0V6HBcT/supersport-motorsport.png
+http://golive.yn.lt/stream/supersport/motorsport.m3u8
+====== SS Rugby ======
+https://i.postimg.cc/CxF24kyX/supersport-rugby.png
+http://golive.yn.lt/stream/supersport/rugby.m3u8
+
+https://i.postimg.cc/gjKqYJYz/beinsports1.png
+https://i.postimg.cc/3wh61yd1/beinsports3.png
+https://i.postimg.cc/J4m71XKX/premiersports1.png
+https://i.postimg.cc/rppKq4Vj/premiersports2.png
+https://i.postimg.cc/JnhrZNsr/sporttv.png
+https://i.postimg.cc/L6sMxFTq/skysportsepl.png
