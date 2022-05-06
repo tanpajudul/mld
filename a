@@ -1,59 +1,6 @@
-#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beINSports1.MACAN" group-title="Sports" tvg-logo="https://cdn.macan.tv/img/bein_sports_1.png", beIN Sports 1 ID
-https://delivery.tvprem.net/stream/macan_sport_1/playlist.m3u8?token=q42qz2d&v=20200807
-#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beINSports2.MACAN" group-title="Sports" tvg-logo="https://cdn.macan.tv/img/bein_sports_2.png", beIN Sports 3 ID
-https://delivery.tvprem.net/stream/macan_sport_2/playlist.m3u8?token=q42qz2d&v=20200807
-
-====== Sky EPL ======
-#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/skypremierliga.png" group-title="Sport",Sky Premier Liga
-http://golive.yn.lt/stream/skysport/premierliga.m3u8
-
-https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
-https://i.postimg.cc/Vkwq2R00/espn.png
-
-===== Premier Sport-1 =====
-https://i.postimg.cc/J4m71XKX/premiersports1.png
-http://golive.yn.lt/stream/premiersport/01.m3u8
-===== Premier Sport-2 =====
-https://i.postimg.cc/rppKq4Vj/premiersports2.png
-http://golive.yn.lt/stream/premiersport/02.m3u8
-
-====== SPORT TV-1 ======
-https://i.postimg.cc/JnhrZNsr/sporttv.png
-http://golive.yn.lt/stream/sporttv/01.m3u8
-====== SPORT TV-2 ======
-https://i.postimg.cc/JnhrZNsr/sporttv.png
-http://golive.yn.lt/stream/sporttv/02.m3u8
-====== SPORT TV-3 ======
-https://i.postimg.cc/JnhrZNsr/sporttv.png
-http://golive.yn.lt/stream/sporttv/03.m3u8
-====== SPORT TV-4 ======
-https://i.postimg.cc/JnhrZNsr/sporttv.png
-http://golive.yn.lt/stream/sporttv/04.m3u8
-====== SPORT TV-5 ======
-https://i.postimg.cc/JnhrZNsr/sporttv.png
-http://golive.yn.lt/stream/sporttv/05.m3u8
-
-https://live1.rctiplus.com/RCTI2022.m3u8
-====== SS Football ======
-https://i.postimg.cc/TwWNPcmL/supersport-football.png
-http://golive.yn.lt/stream/supersport/football.m3u8
-===== SS Premier Liga =====
-https://i.postimg.cc/brx6xNmq/supersport-premier-league-live.png
-http://golive.yn.lt/stream/supersport/premierliga.m3u8
-====== SS Laliga ======
-https://i.postimg.cc/fbPgZP3Q/supersport-laliga.png
-http://golive.yn.lt/stream/supersport/laliga.m3u8
-====== SS Cricket ======
-https://i.postimg.cc/q7qZPrvG/supersport-cricket.png
-http://golive.yn.lt/stream/supersport/cricket.m3u8
-====== SS Golf ======
-https://i.postimg.cc/DwBMp0nZ/supersport-golf.png
-http://golive.yn.lt/stream/supersport/golf.m3u8
-====== SS MotorSport ======
-https://i.postimg.cc/J0V6HBcT/supersport-motorsport.png
-http://golive.yn.lt/stream/supersport/motorsport.m3u8
-====== SS Rugby ======
-https://i.postimg.cc/CxF24kyX/supersport-rugby.png
-http://golive.yn.lt/stream/supersport/rugby.m3u8
-
-https://live1.rctiplus.com/RCTI2022.m3u8
+Champions 1
+https://www.seulangatv-online.ml/vidio/prem/champions1.m3u8
+Champions 2
+https://www.seulangatv-online.ml/vidio/prem/champions2.m3u8
+Champions 3
+https://www.seulangatv-online.ml/vidio/prem/champions3.m3u8
