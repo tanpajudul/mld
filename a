@@ -1,16 +1,38 @@
-https://demf1kf3itpt4.cloudfront.net/hls/espn/chunks.m3u8
-
-Buat yang nyari HBO
-
-HBO Hits
-https://bit.ly/38ijjkP
-HBO
-https://bit.ly/3MI1Y43
-HBO Family
-https://bit.ly/3k5AVmI
-Cinemax
-https://bit.ly/38fZNp6
-https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
+#EXTINF:-1 tvg-id="SinemaIndonesia.MACAN" tvg-name="SinemaIndonesia.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/sinema_indonesia.png", Sinema Indonesia
+https://delivery.tvprem.net/stream/sinema_indonesia/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/galaxy.jpg", Galaxy
+https://delivery.tvprem.net/stream/galaxy/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/galaxy_premium.jpg", Galaxy Premium
+https://delivery.tvprem.net/stream/galaxy_premium/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/imc.jpg", IMC
+https://delivery.tvprem.net/stream/imc/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="CinemaWorld.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/cinemaworld.png", CinemaWorld
+https://delivery.tvprem.net/stream/cinemaworld/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="BioskopIndonesia.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/bioskopindonesia.png", Bioskop Indonesia
+https://delivery.tvprem.net/stream/bioskopindonesia/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/flik.png", Flik
+https://delivery.tvprem.net/stream/flik/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/thrill.png", Thrill
+https://delivery.tvprem.net/stream/thrill/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits.MACAN" group-title="Entertainment" tvg-logo="https://cdn.macan.tv/img/hits.png", HITS
+https://delivery.tvprem.net/stream/hits/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITSMovies.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/hits_movies.png", HITS Movies
+https://delivery.tvprem.net/stream/hits_movies/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="Paramount.MACAN" tvg-name="Paramount.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/paramount.png", Paramount
+https://delivery.tvprem.net/stream/paramount/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="myfamilychannel.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/myfamilychannel.png", myfamilychannel
+https://delivery.tvprem.net/stream/myfamilychannel/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="mycinema.MACAN" tvg-name="mycinema.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/mycinema.png", mycinema
+https://delivery.tvprem.net/stream/mycinema/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-name="mycinemaasia.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/mycinemaasia.png", mycinemaasia
+https://delivery.tvprem.net/stream/mycinemaasia/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBOHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/hbo.png", HBO
+https://delivery.tvprem.net/stream/hbo/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBOFamilyHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/hbo_family.png", HBO Family
+https://delivery.tvprem.net/stream/hbo_family/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBOHitsHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/hbo_hits.png", HBO Hits
+https://delivery.tvprem.net/stream/hbo_hits/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBOSignatureHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png", HBO Signature
+https://delivery.tvprem.net/stream/hbo_signature/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/cinemaxa.png", Cinemax by HBO
+https://delivery.tvprem.net/stream/cinemax/playlist.m3u8?token=dwjtemx&v=20200807
