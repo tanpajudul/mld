@@ -1,40 +1,36 @@
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv1.png", tv1
-https://delivery.tvprem.net/stream/tv1/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv2.png", tv2
-https://delivery.tvprem.net/stream/tv2/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv3.png", tv3
-https://delivery.tvprem.net/stream/tv3/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/ntv7.png", NTV7
-https://delivery.tvprem.net/stream/ntv7/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="AstroAwani.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_awani.png", Astro Awani
-https://delivery.tvprem.net/stream/astro_awani/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/8tv.png", 8TV
-https://delivery.tvprem.net/stream/8tv/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv9_my.png", TV9
-https://delivery.tvprem.net/stream/tv9_my/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstroCeria.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_ceria.png", Astro Ceria
-https://delivery.tvprem.net/stream/astro_ceria/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="AstroOasis.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_oasis.png", Astro Oasis
-https://delivery.tvprem.net/stream/astro_oasis/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="AstroPrima.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_prima.png", Astro Prima
-https://delivery.tvprem.net/stream/astro_prima/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="AstroRia.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_ria.png", Astro Ria
-https://delivery.tvprem.net/stream/astro_ria/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="AstroWarna.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_warna.png", Astro Warna
-https://delivery.tvprem.net/stream/astro_warna/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="AstroNaura.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_naura.png", Astro Naura
-https://delivery.tvprem.net/stream/astro_naura/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="AstroAura.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_aura.png", Astro Aura
-https://delivery.tvprem.net/stream/astro_aura/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="AstroRania.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_rania.png", Astro Rania
-https://delivery.tvprem.net/stream/astro_rania/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="AstroAEC.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_aec.png", Astro AEC
-https://delivery.tvprem.net/stream/astro_aec/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="AstroCitra.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_citra.png", Astro Citra
-https://delivery.tvprem.net/stream/astro_citra/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroBollyone.my" tvg-name="AstroBollyone.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_bollyone.png", Astro Bollyone
-https://delivery.tvprem.net/stream/astro_bollyone/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroVinmeen.my" tvg-name="AstroVinmeen.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_vinmeen.png", Astro Vinmeen
-https://delivery.tvprem.net/stream/astro_vinmeen/playlist.m3u8?token=dwjtemx&v=20200807
-#EXTINF:-1 tvg-id="AstroDiscScience.my" tvg-name="AstroDiscScience.my" group-title="Knowledge" tvg-logo="https://cdn.macan.tv/img/dmax.png", Astro DMAX
-https://delivery.tvprem.net/stream/astro_dmax/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN" group-title="Korea" tvg-logo="https://cdn.macan.tv/img/sonyone.png", Sony One
+https://delivery.tvprem.net/stream/sonyone/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang.MACAN" group-title="Korea" tvg-logo="https://cdn.macan.tv/img/arirang.png", Arirang
+https://delivery.tvprem.net/stream/arirang/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TVN.MACAN" group-title="Korea" tvg-logo="https://cdn.macan.tv/img/tvn.png", tvN
+https://delivery.tvprem.net/stream/id_tvn/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="TVNMovies.MACAN" group-title="Korea" tvg-logo="https://cdn.macan.tv/img/tvn_movies.png", tvN Movies
+https://delivery.tvprem.net/stream/tvn_movies/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" group-title="Korea" tvg-logo="https://cdn.macan.tv/img/kbs_world.png", KBS World
+https://delivery.tvprem.net/stream/kbs_world/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="KPlus.id" tvg-name="KPlus.id" group-title="Korea" tvg-logo="https://cdn.macan.tv/img/kplus.png", K+
+https://delivery.tvprem.net/stream/kplus/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus.id" group-title="Japan" tvg-logo="https://cdn.macan.tv/img/aniplus.png", Aniplus
+https://delivery.tvprem.net/stream/id_aniplus/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax.MACAN" group-title="Japan" tvg-logo="https://cdn.macan.tv/img/animax.png", Animax
+https://delivery.tvprem.net/stream/id_animax/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="WAKUWAKUJAPAN.MACAN" group-title="Japan" tvg-logo="https://cdn.macan.tv/img/wakuwaku.png", Waku Waku Japan
+https://delivery.tvprem.net/stream/wakuwaku/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id" group-title="Japan" tvg-logo="https://cdn.macan.tv/img/gem.jpg", Sony GEM TV
+https://delivery.tvprem.net/stream/id_gem/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="NHKWorldPremium.id" tvg-name="NHKWorldPremium.id" group-title="Japan" tvg-logo="https://cdn.macan.tv/img/nwp.png", NHK World Premium
+https://delivery.tvprem.net/stream/nwp/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX.MACAN" group-title="Entertainment" tvg-logo="https://cdn.macan.tv/img/kix.png", KIX
+https://delivery.tvprem.net/stream/kix/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM.MACAN" group-title="Chinese" tvg-logo="https://cdn.macan.tv/img/ccm.png", Celestial Classic Movies
+https://delivery.tvprem.net/stream/ccm/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CelestialMovies.MACAN" group-title="Chinese" tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
+https://delivery.tvprem.net/stream/cm/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="SCM.MACAN" group-title="Chinese" tvg-logo="https://cdn.macan.tv/img/star_chinese_movies.png", Star Chinese Movies
+https://delivery.tvprem.net/stream/id_scm/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="ChineseDrama.MACAN" tvg-name="ChineseDrama.MACAN" group-title="Chinese" tvg-logo="https://cdn.macan.tv/img/chinesedrama.png", Chinese Drama
+https://delivery.tvprem.net/stream/chinesedrama/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="Formosa.MACAN" tvg-name="Formosa.MACAN" group-title="Chinese" tvg-logo="https://cdn.macan.tv/img/formosa.png", Formosa
+https://delivery.tvprem.net/stream/formosa/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="Zee.MACAN" group-title="India" tvg-logo="https://cdn.macan.tv/img/zeebioskop.png", ZEE Bioskop
+https://delivery.tvprem.net/stream/zeebioskop/playlist.m3u8?token=dwjtemx&v=20200807
