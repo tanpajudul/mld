@@ -1,1 +1,4 @@
-https://d3j3l2afbtzbe1.cloudfront.net/stream/NDI5OA==/1080p.m3u8
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beINSports1.MACAN" group-title="Sports" tvg-logo="https://cdn.macan.tv/img/bein_sports_1.png", beIN Sports 1 ID
+https://delivery.tvprem.net/stream/macan_sport_1/playlist.m3u8?token=dwjtemx&v=20200807
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beINSports2.MACAN" group-title="Sports" tvg-logo="https://cdn.macan.tv/img/bein_sports_2.png", beIN Sports 3 ID
+https://delivery.tvprem.net/stream/macan_sport_2/playlist.m3u8?token=dwjtemx&v=20200807
