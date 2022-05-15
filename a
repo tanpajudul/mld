@@ -1,3 +1,8 @@
-https://i.postimg.cc/13f6gfCv/cheliv.jpg
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1U-2OgeFQ_2P56DdFTWqnqxUC4nfaoC1KQpyuy_QIL8m1--o6hlpPo_ACiBkMz-26_bZD2BP7yrG99UPJEApAw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/pTv2wrEsroEyni3-j905-gunLThjyki0H5j0adkwdPDzSH54c9GbD2XQsgfZuOzuUcPnYuVMijOv5rX7pliyAw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/tw_dynamic_highlatency.m3u8?type=live
+======= RCTI =======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/id/rcti.png" group-title="Indonesia", RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/4927
+hbofamily
