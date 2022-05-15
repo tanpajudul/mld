@@ -1,8 +1,2 @@
-======= RCTI =======
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/id/rcti.png" group-title="Indonesia", RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/4927
-hbofamily
+https://demf1kf3itpt4.cloudfront.net/hls/abc/playlist.m3u8
+https://i.postimg.cc/WpSqQQkw/nba.jpg
