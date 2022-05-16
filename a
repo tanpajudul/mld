@@ -1,1 +1,11 @@
-http://bglteve2.my.id:33210/live/catuhariteriol/adsesfg/3848.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="sporttv1" tvg-logo="https://i.postimg.cc/JnhrZNsr/sporttv.png" group-title="Sports",sporttv1
+http://103.179.57.83:25461/trial/JwjB6RWupY/19
+#EXTINF:-1 tvg-id="" tvg-name="sporttv2" tvg-logo="https://i.postimg.cc/JnhrZNsr/sporttv.png" group-title="Sports",sporttv2
+http://103.179.57.83:25461/trial/JwjB6RWupY/20
+#EXTINF:-1 tvg-id="" tvg-name="sporttv3" tvg-logo="https://i.postimg.cc/JnhrZNsr/sporttv.png" group-title="Sports",sporttv3
+http://103.179.57.83:25461/trial/JwjB6RWupY/21
+#EXTINF:-1 tvg-id="" tvg-name="sporttv4" tvg-logo="https://i.postimg.cc/JnhrZNsr/sporttv.png" group-title="Sports",sporttv4
+http://103.179.57.83:25461/trial/JwjB6RWupY/23
+#EXTINF:-1 tvg-id="" tvg-name="sporttv5" tvg-logo="https://i.postimg.cc/JnhrZNsr/sporttv.png" group-title="Sports",sporttv5
+http://103.179.57.83:25461/trial/JwjB6RWupY/24
