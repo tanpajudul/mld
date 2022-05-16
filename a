@@ -1,5 +1,4 @@
-http://golive.yn.lt/stream/astro/01.m3u8
-http://golive.yn.lt/stream/astro/02.m3u8
-http://golive.yn.lt/stream/astro/03.m3u8
-http://golive.yn.lt/stream/astro/04.m3u8
-http://golive.yn.lt/stream/astro/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="assp1" tvg-logo="https://i.postimg.cc/5yKr08Qb/assp.webp" group-title="Sports",assp1
+http://103.179.57.83:25461/live/trial/JwjB6RWupY/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="assp2" tvg-logo="https://i.postimg.cc/SRbsPzxQ/assp2.webp" group-title="Sports",assp2
+http://103.179.57.83:25461/live/trial/JwjB6RWupY/26.m3u8
