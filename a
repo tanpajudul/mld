@@ -1,8 +1,1 @@
-#EXTINF:-1 group-title="vidio" tvg-logo="https://i.imgur.com/l9h43yy.jpg",Champions TV1
-http://x-tv.my.id/vidfast/vidio_championstv1.m3u8
-
-#EXTINF:-1 group-title="vidio" tvg-logo="https://i.imgur.com/WruLnFe.jpg",Champions TV2
-http://x-tv.my.id/vidfast/vidio_championstv2.m3u8
-
-#EXTINF:-1 group-title="vidio" tvg-logo="https://i.imgur.com/Mvz58A1.jpg",Champions TV3
-http://x-tv.my.id/vidfast/vidio_championstv3.m3u8
+http://103.179.57.83:25461/live/trial/JwjB6RWupY/27.m3u8
