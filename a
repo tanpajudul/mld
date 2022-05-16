@@ -1,1 +1,9 @@
 http://103.179.57.83:25461/live/trial/JwjB6RWupY/27.m3u8
+#EXTINF:-1 group-title="vidio" tvg-logo="https://i.imgur.com/EiVHsX9.jpg",Citradrama
+http://x-tv.my.id/vidfast/vidio_citradrama.m3u8
+
+#EXTINF:-1 group-title="vidio" tvg-logo="https://i.imgur.com/h0B057L.jpg",Citrabioskop
+http://x-tv.my.id/vidfast/vidio_citrabioskop.m3u8
+
+#EXTINF:-1 group-title="vidio" tvg-logo="https://i.imgur.com/6UXP7XF.jpg",Citradangdut
+http://x-tv.my.id/vidfast/vidio_citradangdut.m3u8
