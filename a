@@ -1,14 +1,14 @@
 ====== Champion-1 ======
 #EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/champion1.png" group-title="Sport",Champions 1
-https://etslive-2-vidio-com.akamaized.net/exp=1654011800~acl=/hls-p/ingest_6685_*/*~hmac=0c8e89b27b736a14bc1405ffbc7fc3fbe0dfe7920845886e02e2715e251d8a76/hls-p/ingest_6685_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1654065794~acl=/hls-p/ingest_6685_*/*~hmac=85a1f27872eb5732dda870e6e2781e4610e9377180702fd3c37e87e7da348e6e/hls-p/ingest_6685_720p/index.m3u8
 #http://x-tv.my.id/vidfast/vidio_championstv1.m3u8
 
 ====== Champion-2 ======
 #EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/champion2.png" group-title="Sport",Champions 2
-https://etslive-2-vidio-com.akamaized.net/exp=1654011914~acl=/hls-p/ingest_6686_*/*~hmac=9c70098773801d5cc86d3b6b79c575637a1adf206f5a83b9369df4be4cfd893c/hls-p/ingest_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1654065925~acl=/hls-p/ingest_6686_*/*~hmac=2eaac7ca62983627e74d48235d2bc94cb0f846e289c657f2571376c2992c32ed/hls-p/ingest_6686_720p/index.m3u8
 #http://x-tv.my.id/vidfast/vidio_championstv2.m3u8
 
 ====== Champion-3 ======
 #EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/champion3.png" group-title="Sport",Champions 3
-https://etslive-2-vidio-com.akamaized.net/exp=1654011965~acl=/hls-p/ingest_6786_*/*~hmac=b6e865d45763d97a3563129e0f12541982deb686cf3f44533e2f5e7dbd409221/hls-p/ingest_6786_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1654065969~acl=/hls-p/ingest_6786_*/*~hmac=99d1030a41e6fcfa4605d6d18661a5007472ab3ddf2edf92b3a2f455db820711/hls-p/ingest_6786_720p/index.m3u8
 #http://x-tv.my.id/vidfast/vidio_championstv3.m3u8
