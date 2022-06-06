@@ -1,14 +1,1 @@
-====== Champion-1 ======
-#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/champion1.png" group-title="Sport",Champions 1
-https://etslive-2-vidio-com.akamaized.net/exp=1654065794~acl=/hls-p/ingest_6685_*/*~hmac=85a1f27872eb5732dda870e6e2781e4610e9377180702fd3c37e87e7da348e6e/hls-p/ingest_6685_720p/index.m3u8
-#http://x-tv.my.id/vidfast/vidio_championstv1.m3u8
-
-====== Champion-2 ======
-#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/champion2.png" group-title="Sport",Champions 2
-https://etslive-2-vidio-com.akamaized.net/exp=1654065925~acl=/hls-p/ingest_6686_*/*~hmac=2eaac7ca62983627e74d48235d2bc94cb0f846e289c657f2571376c2992c32ed/hls-p/ingest_6686_720p/index.m3u8
-#http://x-tv.my.id/vidfast/vidio_championstv2.m3u8
-
-====== Champion-3 ======
-#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/champion3.png" group-title="Sport",Champions 3
-https://etslive-2-vidio-com.akamaized.net/exp=1654065969~acl=/hls-p/ingest_6786_*/*~hmac=99d1030a41e6fcfa4605d6d18661a5007472ab3ddf2edf92b3a2f455db820711/hls-p/ingest_6786_720p/index.m3u8
-#http://x-tv.my.id/vidfast/vidio_championstv3.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1654487441~acl=/hls-p/ingest_6786_*/*~hmac=28eb61fdbdcec75fa100ee3f980f622d8c92b74518f9c84433a37ff72e460d61/hls-p/ingest_6786_720p/index.m3u8
