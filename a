@@ -17,6 +17,7 @@ headers = {
 
 response = requests.get('https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd', headers=headers)
 
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 https://lic.drmtoday.com/license-proxy-widevine/cenc/
 
 
