@@ -4,10 +4,8 @@ headers = {
     'Accept': '*/*',
     'Accept-Language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,pt;q=0.6,es;q=0.5',
     'Connection': 'keep-alive',
-    'If-Modified-Since': 'Mon, 03 Oct 2022 18:25:42 GMT',
-    'If-None-Match': '"6cf7db9-cf6-00000000633b2926-00000000633b2927;3318-gzip"',
-    'Origin': 'https://bitmovin.com',
-    'Referer': 'https://bitmovin.com/',
+    'Origin': 'https://www.cubmu.com',
+    'Referer': 'https://www.cubmu.com/',
     'Sec-Fetch-Dest': 'empty',
     'Sec-Fetch-Mode': 'cors',
     'Sec-Fetch-Site': 'cross-site',
@@ -17,7 +15,9 @@ headers = {
     'sec-ch-ua-platform': '"Windows"',
 }
 
-response = requests.get('https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd', headers=headers)
+response = requests.get('https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd', headers=headers)
+
+https://lic.drmtoday.com/license-proxy-widevine/cenc/
 
 
 ======= RCTI =======
