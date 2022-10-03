@@ -1,21 +1,23 @@
 import requests
 
 headers = {
-    'authority': 'media.axprod.net',
-    'accept': '*/*',
-    'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,pt;q=0.6,es;q=0.5',
-    'origin': 'https://streambayu.xyz',
-    'referer': 'https://streambayu.xyz/',
+    'Accept': '*/*',
+    'Accept-Language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,pt;q=0.6,es;q=0.5',
+    'Connection': 'keep-alive',
+    'If-Modified-Since': 'Mon, 03 Oct 2022 18:25:42 GMT',
+    'If-None-Match': '"6cf7db9-cf6-00000000633b2926-00000000633b2927;3318-gzip"',
+    'Origin': 'https://bitmovin.com',
+    'Referer': 'https://bitmovin.com/',
+    'Sec-Fetch-Dest': 'empty',
+    'Sec-Fetch-Mode': 'cors',
+    'Sec-Fetch-Site': 'cross-site',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
     'sec-ch-ua': '"Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"',
     'sec-ch-ua-mobile': '?0',
     'sec-ch-ua-platform': '"Windows"',
-    'sec-fetch-dest': 'empty',
-    'sec-fetch-mode': 'cors',
-    'sec-fetch-site': 'cross-site',
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
 }
 
-response = requests.get('https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/18/0003.m4s', headers=headers)
+response = requests.get('https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd', headers=headers)
 
 
 ======= RCTI =======
