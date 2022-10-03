@@ -1,18 +1,18 @@
 import requests
 
 headers = {
-    'Accept': '*/*',
-    'Accept-Language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,pt;q=0.6,es;q=0.5',
-    'Connection': 'keep-alive',
-    'Origin': 'https://www.cubmu.com',
-    'Referer': 'https://www.cubmu.com/',
-    'Sec-Fetch-Dest': 'empty',
-    'Sec-Fetch-Mode': 'cors',
-    'Sec-Fetch-Site': 'cross-site',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
+    'authority': 'media.axprod.net',
+    'accept': '*/*',
+    'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,pt;q=0.6,es;q=0.5',
+    'origin': 'https://streambayu.xyz',
+    'referer': 'https://streambayu.xyz/',
     'sec-ch-ua': '"Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"',
     'sec-ch-ua-mobile': '?0',
     'sec-ch-ua-platform': '"Windows"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'cross-site',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
 }
 
-response = requests.get('https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd', headers=headers)
+response = requests.get('https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/18/0003.m4s', headers=headers)
