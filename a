@@ -4,8 +4,10 @@ headers = {
     'Accept': '*/*',
     'Accept-Language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,pt;q=0.6,es;q=0.5',
     'Connection': 'keep-alive',
-    'Origin': 'https://www.cubmu.com',
-    'Referer': 'https://www.cubmu.com/',
+    'If-Modified-Since': 'Wed, 12 Oct 2022 06:37:03 GMT',
+    'If-None-Match': '"648e807f-cf6-000000006346608f-0000000063466090;3318-gzip"',
+    'Origin': 'https://www.visionplus.id',
+    'Referer': 'https://www.visionplus.id/',
     'Sec-Fetch-Dest': 'empty',
     'Sec-Fetch-Mode': 'cors',
     'Sec-Fetch-Site': 'cross-site',
@@ -15,10 +17,7 @@ headers = {
     'sec-ch-ua-platform': '"Windows"',
 }
 
-response = requests.get('https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd', headers=headers)
-
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-https://lic.drmtoday.com/license-proxy-widevine/cenc/
+response = requests.get('https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd', headers=headers)
 
 
 ======= RCTI =======
