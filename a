@@ -1,22 +1,22 @@
-https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/mpds/11331.mpd
+https://widevine-proxy.appspot.com/proxy
 
 import requests
 
 headers = {
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-    'Accept-Language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,pt;q=0.6,es;q=0.5',
-    'Cache-Control': 'max-age=0',
-    'Connection': 'keep-alive',
-    'Sec-Fetch-Dest': 'document',
-    'Sec-Fetch-Mode': 'navigate',
-    'Sec-Fetch-Site': 'none',
-    'Sec-Fetch-User': '?1',
-    'Upgrade-Insecure-Requests': '1',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36',
-    'sec-ch-ua': '"Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"',
+    'authority': 'drmtoday.vieon.vn',
+    'sec-ch-ua': '"Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"',
     'sec-ch-ua-mobile': '?0',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36',
+    'x-dt-custom-data': 'eyJ1c2VySWQiOiIxMi1hZmRjM2Y5Zjc0OTM4YWE4M2JlMmEzMGE4YzA2MGY3NyIsInNlc3Npb25JZCI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUp2Y0dWeVlYUnZjbDlwWkNJNk1USXNJbk5sYzNOcGIyNUpaQ0k2SW1GbVpHTXpaamxtTFRjME9UTXRPR0ZoT0MwelltVXlMV0V6TUdFNFl6QTJNR1kzTnpFMk16a3pNakV3TURraUxDSjBhVzFsYzNSaGJYQWlPakUyTXprek1qRXdNRGtzSW5WelpYSkpaQ0k2SWpFeUxXRm1aR016WmpsbU56UTVNemhoWVRnelltVXlZVE13WVRoak1EWXdaamMzSW4wLmk5dzdYZlZZYWVwTmQyU2t4YWZhRVZRSXJSOXcxbHBxRXJ5WEFldTJjaU0iLCJtZXJjaGFudCI6InFuZXQifQ==',
     'sec-ch-ua-platform': '"Windows"',
+    'accept': '/',
+    'origin': 'https://vieon.vn',
+    'sec-fetch-site': 'same-site',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-dest': 'empty',
+    'referer': 'https://vieon.vn/',
+    'accept-language': 'en-US,en;q=0.9,vi;q=0.8',
 }
 params = (
     ('platform', 'BROWSER'),
@@ -29,7 +29,7 @@ provider = 'kakaotv'
 
 
 releasePid = "_qVpiY31v_oU"
-# response = requests.get('https://mrpw.ptmnc01.verspective.net/', headers=headers)
+# response = requests.post('https://widevine-proxy.ott.yandex.ru/proxy', headers=headers, cookies=cookies, data=data)
 
 # print(f'{chr(10)}widevine_license: {response.content}')
 #NB. Original query string below. It seems impossible to parse and
